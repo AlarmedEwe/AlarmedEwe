@@ -1,6 +1,6 @@
 ## Greetings, humanoid beings. I'm Guilherme and I come in peace. 🚀👽
 
-I am a programming and development enthusiast in all forms.
+I am a programming and development enthusiast in all ways.
 
 My heart, I admit, lies in game development, but I also have a huge fondness for cross-platform application development based on web technologies.
 
@@ -13,33 +13,16 @@ My heart, I admit, lies in game development, but I also have a huge fondness for
 
 ## What do I use on a daily basis? 📆
 
-**About programming languages**
-
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-**About data storage**
-
 ![TSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-**About markdown**
+## Some projects 💻
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-
-**About development tools**
-
-![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-
-**About Operational System**
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Zorin OS](https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+[![Promotion Creator](https://github-readme-stats.vercel.app/api/pin/?username=alarmedewe&repo=promotion-creator&theme=chartreuse-dark)](https://github.com/AlarmedEwe/promotion-creator)
+[![Password Generator](https://github-readme-stats.vercel.app/api/pin/?username=alarmedewe&repo=PasswordGenerator&theme=chartreuse-dark)](https://github.com/AlarmedEwe/PasswordGenerator)
 
 ## Contact me 📞
 

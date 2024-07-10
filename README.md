@@ -4,6 +4,8 @@ I am a programming and development enthusiast in all ways.
 
 My heart, I admit, lies in game development, but I also have a huge fondness for cross-platform application development based on web technologies.
 
+Wanna hear more about me? See my [presentation video on YouTube](https://youtu.be/39DsO5W98bY?si=2cUbzRMehB0kBeVD) (in portuguese).
+
 <div>
   <a href="https://github.com/alarmedewe">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alarmedewe&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
